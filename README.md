@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next.js14 and MERN stack
 - 💞️ I’m looking to collaborate on companies that are focused on establishing powerful on-demand web apps and freelance job oppurtinuties
 - 📫 How to reach me oguzyucell.oy@gmail.com or linkedin.com/in/mehmet-oğuz-yücel-463b7b2b4/
-- 🌐 You can visit my personal website for further technical information about me. oguzyucel.xyz
+- 🌐 You can visit my personal website https://oguzyucel.xyz for further technical information about me.
 - ⚡ Fun fact: I'm also interested in fitness/bodybuilding 
 
 <!---
