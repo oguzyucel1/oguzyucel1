@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oguzyucel1
-- 👀 I’m interested in fullstack web development, esp. in next.js development
-- 🌱 I’m currently learning next.js14 and MERN stack
-- 💞️ I’m looking to collaborate on companies that are focused on establishing powerful on-demand web apps and freelance job oppurtinuties
+- 👀 I’m interested in agentic ai, multi-agent systems and their orchestration, also improving at devops and cloud-native development
+- 🌱 I’m currently learning agentic ai principles, tools and orchestration architectures as well as devops best practices such as kubernetes and microservices
 - 📫 How to reach me oguzyucell.oy@gmail.com or linkedin.com/in/mehmet-oğuz-yücel-463b7b2b4/
 - 🌐 You can visit my personal website https://oguzyucel.xyz for further technical information about me.
 - ⚡ Fun fact: I'm also interested in fitness/bodybuilding 
