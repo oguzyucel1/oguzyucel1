@@ -101,8 +101,7 @@ Always Improving:
 <br>
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=oguzyucel1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzyucel1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oguzyucel1)](https://git.io/streak-stats)
 <br><br>
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzyucel1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
